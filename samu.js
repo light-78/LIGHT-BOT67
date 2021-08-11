@@ -133,7 +133,7 @@ samu330.on('CB:action,,call', async json => {
 const callerId = json[2][0][1].from;
 console.log("Llamada recibida de "+ callerId)
 console.log(chalk.greenBright("├"), chalk.keyword("magenta")("[ 📵Llamada recibida By Traxnox ]"), chalk.greenBright(callerId))
-samu330.sendMessage(callerId, "Las llamadas no se permiten, *PORFAVOR LEE LAS REGLAS!* Te bloqueare😒 Si No Quieres Que Te saque Del Grupo Suscribete ami canal by Traxnox", MessageType.text, {quoted: {key: {
+samu330.sendMessage(callerId, "Las llamadas no se permiten, *PORFAVOR LEE LAS REGLAS!* Te bloqueare😒😍😈🍒 Si No Quieres Que Te saque Del Grupo Suscribete ami canal by Traxnox", MessageType.text, {quoted: {key: {
 fromMe: false,
 participant: `0@s.whatsapp.net`
 },
